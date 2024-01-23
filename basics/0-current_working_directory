@@ -1,2 +1,2 @@
-#!/bin/bash
-echo $PWD
+#!/usr/bin/bash
+pwd
