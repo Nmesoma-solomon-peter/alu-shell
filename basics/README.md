@@ -1,1 +1,1 @@
-This is my readme for alu-shell
+this is my basics directory
